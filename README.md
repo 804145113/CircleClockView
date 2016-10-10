@@ -1,6 +1,10 @@
 #CircleClockView 2.0
 抽取属性，支持故事版，直接视图直接关联class使用，添加是否显示外圈刻度属性。
 
+## 支持Cocoapod安装：
+
+![](https://i.niupic.com/images/2016/10/10/gqOtou.png)
+
 #用法
 =
 1.如图关联  
@@ -28,5 +32,3 @@
 #3.调用代码
     CircleClockView *circleClockView = [[CircleClockView alloc]initWithFrame:CGRectMake(10, 100, [UIScreen mainScreen].bounds.size.width - 20, [UIScreen mainScreen].bounds.size.width - 20) Weight:56.2 Bmi:26.1 Progress:0.5f];
     [self.view addSubview:circleClockView];
-#4.效果如图
-![](http://www.mftp.info/20151001/1445916069x2091678061.png)
