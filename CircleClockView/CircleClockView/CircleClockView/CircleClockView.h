@@ -1,7 +1,7 @@
 //
 //  CircleClockView.h
 //  Effect of pointer ring
-//
+//  2.0
 //  Created by GXY on 15/10/26.
 //  Copyright © 2015年 Tangxianhai. All rights reserved.
 //
